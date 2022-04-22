@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Plant
+comment0.text=\r\n\ A\ simple\ model\ of\ a\ plant.\r\n\r\n\ @author\ David\ J.\ Barnes\ and\ Michael\ K\u00F6lling,\ modified\ by\ Alexandru\ Matei\ K20054925\ and\ Ejaz\ Karim\ K20059213\r\n\ @version\ 2021.03.02\ (3)\r\n
+comment1.params=randomAge\ field\ location\ simulator
+comment1.target=Plant(boolean,\ Field,\ Location,\ Simulator)
+comment1.text=\r\n\ Creates\ a\ new\ plant\ at\ the\ supplied\ location.\ (It\ will\ be\ stored,\ however\ in\ a\ field\ separate\ from\ the\ animal\ one)\r\n\ \r\n\ @param\ randomAge\ Specify\ whether\ the\ starting\ age\ of\ the\ plant\ should\ be\ random\ (true),\ or\ zero\ (false)\r\n\ @param\ field\ The\ field\ in\ which\ the\ plant\ will\ live\ (should\ be\ the\ plant\ field)\r\n\ @param\ location\ The\ plant's\ location\r\n\ @param\ simulator\ A\ reference\ to\ the\ main\ Simulator\ type\ object.\r\n
+comment2.params=
+comment2.target=int\ getMaxAge()
+comment2.text=\r\n\ Returns\ maximum\ age\ this\ plant\ may\ live\ up\ to\ in\ its\ current\ state.\r\n\ @return\ int\ Maximum\ age.\r\n
+comment3.params=
+comment3.target=int\ getDefaultMaxAge()
+comment3.text=\r\n\ Returns\ the\ maximum\ age\ this\ plant\ may\ live\ up\ to\ when\ healthy.\r\n\ @return\ int\ Maximum\ age\ when\ healthy\r\n
+numComments=4

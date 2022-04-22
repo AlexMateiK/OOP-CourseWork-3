@@ -10,3 +10,6 @@ This project is part of the material for chapter 10 of the book
    Pearson Education, 2016
 
 This project was modified for the purposes of a coursework.
+
+Note: this project was fully implemented through pair programming
+and represents the collaborative efforts of Alexandru Matei and Ejaz Karim
